@@ -1,0 +1,5 @@
+C:\Users\Toshiba\Desktop\Examples\obj\Debug\net7.0\Examples.csproj.AssemblyReference.cache
+C:\Users\Toshiba\Desktop\Examples\obj\Debug\net7.0\Examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\Desktop\Examples\obj\Debug\net7.0\Examples.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Desktop\Examples\obj\Debug\net7.0\Examples.AssemblyInfo.cs
+C:\Users\Toshiba\Desktop\Examples\obj\Debug\net7.0\Examples.csproj.CoreCompileInputs.cache
